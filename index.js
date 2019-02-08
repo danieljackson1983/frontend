@@ -7,7 +7,6 @@
 const { series } = require('gulp');
 const { html, sass, less, ts } = require('./lib');
 
-module.exports = html();
 exports.default = series(html,sass,less,ts);
 exports.html = html;
 exports.sass = sass;
