@@ -1,2 +1,2 @@
 # frontend
-A Frontend Management System
+A management system for UI/UX Developers.
