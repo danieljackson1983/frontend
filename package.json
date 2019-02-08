@@ -1,6 +1,6 @@
 {
   "name": "@premo/frontend",
-  "version": "2.0.0-alpha.0",
+  "version": "2.0.0-rc.0",
   "description": "A management system for UI/UX Developers.",
   "main": "index.js",
   "scripts": {},
